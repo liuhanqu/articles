@@ -1,6 +1,9 @@
 # articles
 
-Event Loop
+## typescript
+- https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
+
+## Event Loop
 - https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 - https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
 
@@ -17,3 +20,5 @@ react-fiber-architecture
 ## 性能优化
 Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS
 - https://vuejsdevelopers.com/2017/07/24/critical-css-webpack
+
+- https://medium.com/reloading/javascript-start-up-performance-69200f43b201
