@@ -64,3 +64,7 @@ async defer preloas
 
 - https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
 - https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
+
+## https
+
+- https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc785811(v%3dws.10)
