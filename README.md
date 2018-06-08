@@ -59,3 +59,8 @@ async defer preloas
 
 - https://medium.com/@martin_hotell/improved-redux-type-safety-with-typescript-2-8-2c11a8062575
 - https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935
+
+## javascript
+
+- https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
+- https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
